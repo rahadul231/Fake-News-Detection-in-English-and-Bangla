@@ -249,7 +249,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn statsmodels
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fake-news-detection-english-bangla.git
+git clone https://github.com/rahadul231/Fake-News-Detection-in-English-and-Bangla.git
 ```
 
 2. Open the notebook:
